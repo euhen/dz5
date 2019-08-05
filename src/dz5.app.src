@@ -1,0 +1,14 @@
+{application, dz5,
+ [{description, "Erlang course 5-th home task as an OTP library"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {licenses, ["The Unlicense"]},
+  {links, []}
+ ]}.
